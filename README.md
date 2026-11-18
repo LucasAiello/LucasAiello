@@ -2,7 +2,7 @@
 
 <h2 align="auto"> About me </h2>
 
-- Graduated in the Computer Technician course, studying Computer Engineering at IFPB.
+- Studying Computer Engineering at IFPB.
 
 <div align="center">
   <a href="https://github.com/LucasAiello">
