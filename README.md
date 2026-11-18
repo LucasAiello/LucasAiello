@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/LucasAiello">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasAiello&theme=swift&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAiello&layout=compact&langs_count=7&theme=swift"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api?username=LucasAiello"/>
+  <img height="150em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LucasAiello"/>
 </div>
 
 <h2 align="auto"> Languages and Tools 💡 </h2>
